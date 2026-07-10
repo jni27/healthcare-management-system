@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS files
+Thumbs.db

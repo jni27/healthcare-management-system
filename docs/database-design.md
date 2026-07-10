@@ -25,7 +25,7 @@
 - doctorId
 - specialization
 - qualification
-- experience
+- yearsOfExperience
 - consultationFee
 - departmentId
 
